@@ -1,5 +1,6 @@
 package com.parasoft.parabank.util;
 
+import org.springframework.context.annotation.Configuration;
 import io.sentry.spring7.EnableSentry;
 
 @EnableSentry(

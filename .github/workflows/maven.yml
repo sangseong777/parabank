@@ -39,4 +39,4 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: parabank-war
-        path: target/parabank.war
+        path: target/parabank-6.0.0-SNAPSHOT.war
